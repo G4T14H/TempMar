@@ -30,4 +30,4 @@ Execução
 Após carregar o código no Arduino, o LCD começará a exibir os valores simulados de pH. Você pode observar como os valores variam entre 4 e 8 ao longo do tempo.
 
 Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença Temp Mar.
